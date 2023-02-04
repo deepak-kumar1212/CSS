@@ -1,0 +1,21 @@
+ul{
+    list-style-type: square;
+}
+h1+p{
+    color: rgb(19, 19, 199);
+}
+li em{
+    color: rgb(91, 70, 112);
+  }
+.love:active{
+    background-color: black;
+}
+.love:hover{
+    color:blue;
+}
+.love:visited{
+    color:brown;
+}
+.love:link{
+    color:aquamarine;
+}
