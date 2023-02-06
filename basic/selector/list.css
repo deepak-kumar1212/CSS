@@ -13,3 +13,6 @@ h2:has(+ p, + ul.red) {
   li ol li{
     list-style-type:lower-greek
   }
+  div > ul{
+    background-color: aqua;
+  }
