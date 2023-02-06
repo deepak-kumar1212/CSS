@@ -1,0 +1,6 @@
+.opening::before{
+    content:"hello"
+}
+.middle::before{
+    content:"hiee"
+}

@@ -1,0 +1,12 @@
+.container{
+    display:flex;
+    background-color: dodgerblue;
+    flex-direction: column-reverse;
+    
+  }
+.container > p{
+    background-color: #D41E1E;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
