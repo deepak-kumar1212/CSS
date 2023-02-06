@@ -1,0 +1,16 @@
+h1+p.special{
+    color: rebeccapurple;
+  }
+h1+p+p{
+    color:blueviolet;
+}
+span{
+padding-top: 10px;
+padding-right: 15px;
+padding-bottom: 15px;
+padding-left: 5px;
+    color:blue;
+}
+.anchor:visited{
+color:brown;
+}
