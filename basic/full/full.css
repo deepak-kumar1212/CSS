@@ -1,0 +1,7 @@
+#fs-toggle:not(:fullscreen) {
+    background-color: rgb(18, 19, 18);
+  }
+#fs-toggle:fullscreen {
+    background-color: rgb(236, 13, 13);
+  }
+    
