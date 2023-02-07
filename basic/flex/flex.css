@@ -1,11 +1,8 @@
 .container{
     display:flex;
     background-color: dodgerblue;
-    flex-direction: row;
-    flex-wrap: wrap-reverse;
-    justify-content:flex-end;
-    align-items: flex-end;
     
+    align-self: flex-start;
   }
 .container > p{
     background-color: #D41E1E;
