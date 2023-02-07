@@ -1,8 +1,15 @@
 .container{
     display:flex;
     background-color: dodgerblue;
-    
-    align-self: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+    justify-content:flex-end;
+    align-items: flex-end;
+    align-content: space-between;
+    row-gap: 100px;
+    column-gap: 100px;
+    flex-grow: 4;
+    align-self: flex-end;
   }
 .container > p{
     background-color: #D41E1E;
