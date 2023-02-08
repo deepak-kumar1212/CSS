@@ -1,0 +1,12 @@
+div{
+    display:flex;
+    background-color: aqua;
+    flex-direction: row-reverse;
+    align-items: center;
+    align-content: stretch;
+}
+div>p{
+    background-color: azure;
+    margin: 10px;
+    
+}

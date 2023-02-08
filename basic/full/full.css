@@ -4,4 +4,14 @@
 #fs-toggle:fullscreen {
     background-color: rgb(236, 13, 13);
   }
-    
+  .log{
+    text-align: center;
+    color:aquamarine;
+  }
+#extension{
+  color:red;
+}
+
+p{
+  background-color: aqua;
+} 

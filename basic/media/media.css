@@ -1,0 +1,24 @@
+@media  (hover:hover){
+    a:visited{
+        color:rgb(109, 219, 219);
+    }
+}
+  p {
+    color: black;
+  }
+  @media screen and (min-height:100px) {
+    p {
+      color: red;
+    }
+  }
+@media screen and not (max-height:1000px){
+    .vs{
+        color: violet;
+    }
+}
+@media (pointer: fine){
+    input[type="checkbox"]{
+        border-color:rgb(7, 127, 143);
+    }
+}
+    
