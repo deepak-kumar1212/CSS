@@ -16,3 +16,6 @@ div{
     background-color: aquamarine;
     clear:right;
 }
+div+h1{
+    color:red;
+}
