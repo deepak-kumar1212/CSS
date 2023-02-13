@@ -1,0 +1,11 @@
+.one{
+    background:linear-gradient(pink,yellow);
+    top: 1000px;;
+}
+.two{
+    background:radial-gradient(blue,red);
+    margin: 10px;
+}
+.three{
+    background: greenyellow;
+}
